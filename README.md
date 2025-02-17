@@ -36,6 +36,7 @@ CREDIBLE is a personalized news application designed to provide users with verif
 - Available on Google Play Store & Apple App Store.
 - Web version accessible via browser (no download required).
 - SEO optimization for better discoverability in search engines.
+- The use of APK (Android Package Kit) format to also download the app. 
 
 ### **Interaction & Navigation**
 - **Onboarding Pointers:** Guided walkthrough for first-time users.
